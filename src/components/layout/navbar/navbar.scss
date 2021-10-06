@@ -1,0 +1,16 @@
+@import "../../../global.scss";
+
+.navbar{
+    display: flex;
+    align-items: center;
+    background-color: $primaryColor;
+    padding: 2rem 3rem;
+    z-index: 1;
+    width: 100%;
+    margin-bottom: 1rem;
+
+
+    .logo{
+        color: $lightColor;
+    }
+}

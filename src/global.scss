@@ -1,0 +1,17 @@
+
+
+$primaryColor: #293c6d;
+$darkColor: #333333;
+$lightColor: #f4f4f4;
+
+// colors added for alerts when adding, editing or deleting member list
+$dangerColor: #dc3545;
+$successColor: #28a745;
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
+}
